@@ -1,0 +1,8 @@
+{
+  "name": "Cryptodesh",
+  "logo": "https://ibb.co/RpkdDYY",
+  "rpc_url": "http://23.94.40.115:9944",
+  "explorer_url": "http://23.94.40.115:4000",
+  "metrics_endpoint": "http://23.94.40.115:9615/metrics",
+  "id": "6d0e44f3-9107-49e4-9862-5e62be9b7691"
+}
